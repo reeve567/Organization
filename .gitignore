@@ -1,0 +1,15 @@
+.gradle
+build
+.idea
+
+# proj specific
+.temp
+games
+unorganized
+
+config.json
+
+# imgui
+imgui.log
+imgui.log.lck
+*.ps1
